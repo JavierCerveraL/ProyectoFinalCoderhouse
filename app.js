@@ -17,7 +17,7 @@ var typed = new Typed('#web', {
     backSpeed: 50000,
     showCursor: false,
     fadeOut: false,
-    startDelay: 15 ,
+    startDelay: 1000 ,
     backDeleay: 300,
     loop:true,
     
