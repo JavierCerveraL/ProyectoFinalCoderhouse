@@ -8,4 +8,4 @@
 
 ### Entrega Final
 
-#### [LinkedIn](https://www.linkedin.com/in/JavierCerveraLopez "JavierCerveraLopez")
+## [LinkedIn](https://www.linkedin.com/in/JavierCerveraLopez "JavierCerveraLopez")

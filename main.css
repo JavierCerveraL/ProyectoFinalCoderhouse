@@ -329,6 +329,7 @@ nav ul li a:hover {
   border-top: 1px groove #fffaff;
   background-color: #000 !important;
   color: #fffaff !important;
+  max-height: 250px !important;
 }
 .footer a {
   text-decoration: none !important;
