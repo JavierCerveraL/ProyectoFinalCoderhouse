@@ -12,7 +12,7 @@ body {
   background-color: black;
 }
 
-html, body {
+html{
   overflow-x: hidden;
 }
 
@@ -158,7 +158,7 @@ nav ul li a:hover {
 
 @media (max-width: 600px) {
   .homeTextBox {
-    margin-right: 140px;
+    margin-right: 160px;
   }
 }
 /* HOME PAGE ENDS */
