@@ -107,7 +107,7 @@ nav ul li a:hover {
 /* HOME PAGE STARTS */
 #home {
   text-align: center !important;
-  padding-right: 20px !important;
+  padding-right: 21px !important;
   height: calc(100vh - 20px);
   width: 100%;
   background: url(https://javiercerveral.github.io/ProyectoFinalCoderhouse/media/trees\ back.jpeg) no-repeat;
@@ -124,7 +124,7 @@ nav ul li a:hover {
   border-radius: 30px;
   padding: 1px 20px;
   background-color: #0818A8;
-  color: #fffaff;
+  color: #eeeeee;
   box-shadow: 0px 0px 5px #000, 0px 0px 15px rgb(76, 76, 76);
 }
 
@@ -146,10 +146,6 @@ nav ul li a:hover {
   font-weight: 700;
   letter-spacing: 2px !important;
   text-shadow: 2px 0 rgb(0, 0, 0), -2px 0 rgb(0, 0, 0), 0 2px rgb(0, 0, 0), 0 -2px rgb(0, 0, 0), 1px 1px rgb(0, 0, 0), -1px -1px rgb(0, 0, 0), 1px -1px rgb(0, 0, 0), -1px 1px rgb(0, 0, 0);
-}
-
-span .typed-cursor {
-  font-size: 20px;
 }
 
 /* HOME PAGE ENDS */
@@ -327,12 +323,14 @@ span .typed-cursor {
   padding-left: 15px;
 }
 
-.section-title .footer {
+/* PROJECT PAGE STARTS */
+/* FOOTER */
+.footer {
   border-top: 1px groove #fffaff;
-  background-color: #000 !important;
+  background-color: rgb(182, 177, 177) !important;
   color: #fffaff !important;
 }
-.section-title .footer a {
+.footer a {
   text-decoration: none !important;
   color: #4513d1;
 }
