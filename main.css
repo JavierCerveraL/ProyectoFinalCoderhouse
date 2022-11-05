@@ -12,6 +12,10 @@ body {
   background-color: black;
 }
 
+html, body {
+  overflow-x: hidden;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   letter-spacing: 2px !important;
@@ -152,6 +156,11 @@ nav ul li a:hover {
   margin-left: 140px;
 }
 
+@media (max-width: 600px) {
+  .homeTextBox {
+    margin-right: 140px;
+  }
+}
 /* HOME PAGE ENDS */
 /* ABOUT ME PAGE  STARTS*/
 .about-text h3 {

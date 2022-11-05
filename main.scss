@@ -38,7 +38,9 @@ body{
     background-color: black;
     
 }
-
+html, body{
+    overflow-x: hidden
+}
 
 
 h1, h2, h3, h4, h5, h6{
@@ -208,6 +210,14 @@ border: none;
     margin-left: 140px;
 }
 
+
+@media (max-width: 600px) {
+    .homeTextBox{
+        margin-right: 140px;
+    }
+    
+
+}
 
 
                                                 /* HOME PAGE ENDS */
