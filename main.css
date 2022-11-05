@@ -148,6 +148,10 @@ nav ul li a:hover {
   text-shadow: 2px 0 rgb(0, 0, 0), -2px 0 rgb(0, 0, 0), 0 2px rgb(0, 0, 0), 0 -2px rgb(0, 0, 0), 1px 1px rgb(0, 0, 0), -1px -1px rgb(0, 0, 0), 1px -1px rgb(0, 0, 0), -1px 1px rgb(0, 0, 0);
 }
 
+.homeTextBox {
+  margin-left: 140px;
+}
+
 /* HOME PAGE ENDS */
 /* ABOUT ME PAGE  STARTS*/
 .about-text h3 {
